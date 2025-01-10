@@ -1,3 +1,3 @@
-# [jahrkob.github.io (Preview here)](https://jahrkob.github.io)
+# [jahrkob.github.io/name-card (Preview here)](https://jahrkob.github.io/name-card)
 
 Template by [HTML5 UP](https://html5up.net).
